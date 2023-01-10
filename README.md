@@ -1,7 +1,7 @@
 ## Hey, I'm Hugo dos Santos
 
 - 🔭 I'm searching a work to grow together and exchange experience and perform an excellent job with great professionals..
-- 🌱 I'm student to C# and Unity
+- 🌱 I'm student to C# and React
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Hugo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
