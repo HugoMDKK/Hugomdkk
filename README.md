@@ -2,11 +2,11 @@
 Português
 
 - 🔭 Estou a procura de uma oportunidade de crescimento nessa área que tanto amo, minha dedicação de aprender o futuro da tecnologia é o meu maior destaque, o que me falta é a experiência de ótimos profissionais para trilhar um ótimo futuro!
-- 🌱 Estudo atualmente mais constante C# e Unity.
+- 🌱 Estudo atualmente mais constante C# e ReactJS, estou realizando um projeto em Mern Stack.
 
 English
 - 🔭 I'm searching opportunity of growth in this area that i love so much, my dedication in the learn the future of technology is my most prominent, the only thing that i miss in myself is the experience of great professionals to help tread a great future!!
-- 🌱 I'm studying language C# at the moment and Unity. 
+- 🌱 I'm studying language C# at the moment and ReactJS, now I'm doing one project Mern Stack. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Hugo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
