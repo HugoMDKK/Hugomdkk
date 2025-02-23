@@ -51,6 +51,3 @@
 </div>
 
 ---
-
-## 🐍 Contribution Snake  
-![Snake animation](https://github.com/HugoMDKK/HugoMDKK/blob/output/github-contribution-grid-snake.svg)
